@@ -49,8 +49,8 @@ python main.py
 ```
 
 #### Quick Links
-<p align="center">
-  <a href='https://www.patreon.com/chairmanstudios' target="_blank"><img src="your_relative_path_here" width=auto height=100 title="Patreon💖💖💖✔"></a>
+<p align="left">
+  <a href='https://www.patreon.com/chairmanstudios' target="_blank"><img src="assets/pateon.png" width=auto height=100 title="Patreon💖💖💖✔"></a>
 </p>
 - [YouTube](https://www.youtube.com/channel/UCQdH3uO0rIg5ctg8PFb27Pg)
 - [Flaticon - Country Flags Icons provider](https://www.flaticon.com/search)
