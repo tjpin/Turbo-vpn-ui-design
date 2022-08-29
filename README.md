@@ -51,4 +51,4 @@ python main.py
 - [YouTube](https://www.youtube.com/channel/UCQdH3uO0rIg5ctg8PFb27Pg)
 - [Support on Patreon](https://www.patreon.com/chairmanstudios)
 Support on Patreon💖💖💖✔
-<a href='https://www.patreon.com/chairmanstudios'><img src="patreon.png" width="200" height=60 alt="Support on Patreon"></a>
+<a href='https://www.patreon.com/chairmanstudios' target="_blank"><img src="patreon.png" width="150" height=auto alt="Support on Patreon"></a>
