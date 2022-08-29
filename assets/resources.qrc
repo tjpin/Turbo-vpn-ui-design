@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>back-arrow.png</file>
+    <file>back.png</file>
+    <file>settings.png</file>
+    <file>account.png</file>
+    <file>bg (1).png</file>
+    <file>bg.png</file>
+    <file>carotLogo.png</file>
+    <file>close.png</file>
+    <file>close.svg</file>
+    <file>cvbg.png</file>
+    <file>gift.png</file>
+    <file>mini.png</file>
+    <file>rabit (1).png</file>
+    <file>refresh.png</file>
+    <file>resources.qrc</file>
+    <file>turbo vpn logo.png</file>
+  </qresource>
+</RCC>
