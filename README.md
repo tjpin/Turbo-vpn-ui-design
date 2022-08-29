@@ -50,14 +50,14 @@ python main.py
 
 #### Quick Links and Icons sources.
 <p align="left">
-  <a href='https://www.patreon.com/chairmanstudios' target="_blank"><img src="assets/patreon.png" width=auto height=30 title="Patreon💖💖💖✔"></a>
+  <a href='https://www.patreon.com/chairmanstudios' target="_blank"><img src="assets/patreon.png" width=auto height=30 title="Patreon💖💖💖✔"> Patreon </a>
 </p>
 
 <p align="left">
-  <a href='https://www.youtube.com/channel/UCQdH3uO0rIg5ctg8PFb27Pg' target="_blank"><img src="assets/yt.png" width=auto height=30 title="Patreon ✨✔"></a>
+  <a href='https://www.youtube.com/channel/UCQdH3uO0rIg5ctg8PFb27Pg' target="_blank"><img src="assets/yt.png" width=auto height=30 title="Patreon ✨✔"> Youtube </a>
 </p>
 
 <p align="left">
-  <a href='https://www.flaticon.com/search' target="_blank"><img src="assets/pichon.png" width=auto height=30 title="Flaticons ✨✔"></a>
+  <a href='https://www.flaticon.com/search' target="_blank"><img src="assets/pichon.png" width=auto height=30 title="Flaticons ✨✔"> Pichon Icons8</a>
 </p>
 
