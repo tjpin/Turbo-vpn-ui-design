@@ -49,9 +49,9 @@ python main.py
 ```
 
 #### Quick Links
-- [Support on Patreon](https://www.patreon.com/chairmanstudios)
-Support on Patreon💖💖💖✔
-<a href='https://www.patreon.com/chairmanstudios' target="_blank"><img src="patreon.png" width="150" height=auto alt="Support on Patreon"></a>
+<p align="center">
+  <a href='https://www.patreon.com/chairmanstudios' target="_blank"><img src="your_relative_path_here" width=auto height=100 title="Patreon💖💖💖✔"></a>
+</p>
 - [YouTube](https://www.youtube.com/channel/UCQdH3uO0rIg5ctg8PFb27Pg)
 - [Flaticon - Country Flags Icons provider](https://www.flaticon.com/search)
 - [Pichon - project Icons Provider](https://www.filehorse.com/download-icons8/)
