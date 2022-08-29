@@ -59,7 +59,7 @@ python main.py
 
 > **Logos**
 <p align="left">
-  <a href='https://www.flaticon.com/search' target="_blank"><img src="assets/flaticon.png" width=auto height=30 title="Flaticons ✨✔"></a>
+  <a href='https://www.flaticon.com/search' target="_blank"><img src="assets/flaticon.png" width=auto height=100 title="Flaticons ✨✔"></a>
 </p>
 
 <p align="left">
