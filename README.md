@@ -5,7 +5,6 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
 
 ## About <a name = "about"></a>
 
@@ -48,3 +47,7 @@ run
 python main.py
 ```
 
+#### Quick Links
+- [YouTube](https://www.youtube.com/channel/UCQdH3uO0rIg5ctg8PFb27Pg)
+- [Support on Patreon](https://www.patreon.com/chairmanstudios)
+- ![Support on Patreon](patreon.png?raw=true)
