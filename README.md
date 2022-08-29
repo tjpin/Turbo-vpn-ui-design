@@ -1,4 +1,4 @@
-# Project Title
+# Turbo VPN Ui with PySide6 and QtDesigner.
 
 ## Table of Contents
 
@@ -25,10 +25,6 @@ This project took alot of time to complete and documentation is not included.
 
 
 ### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
 
 ```
 pip install pyside6
