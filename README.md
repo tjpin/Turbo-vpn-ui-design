@@ -1,4 +1,5 @@
 # Turbo VPN Ui with PySide6 and QtDesigner.
+<img src="turbo.png" width=auto height=500px alt="Turbo Vpn ui Clone">
 
 ## Table of Contents
 
@@ -48,11 +49,9 @@ python main.py
 ```
 
 #### Quick Links
-- [YouTube](https://www.youtube.com/channel/UCQdH3uO0rIg5ctg8PFb27Pg)
 - [Support on Patreon](https://www.patreon.com/chairmanstudios)
 Support on Patreon💖💖💖✔
 <a href='https://www.patreon.com/chairmanstudios' target="_blank"><img src="patreon.png" width="150" height=auto alt="Support on Patreon"></a>
-
-
-- [Flaticon - Country Flags Icons provider - ](https://www.flaticon.com/search)
-- [Pichon - project Icons Provider - ](https://www.filehorse.com/download-icons8/)
+- [YouTube](https://www.youtube.com/channel/UCQdH3uO0rIg5ctg8PFb27Pg)
+- [Flaticon - Country Flags Icons provider](https://www.flaticon.com/search)
+- [Pichon - project Icons Provider](https://www.filehorse.com/download-icons8/)
