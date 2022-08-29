@@ -52,3 +52,9 @@ python main.py
 - [Support on Patreon](https://www.patreon.com/chairmanstudios)
 Support on Patreon💖💖💖✔
 <a href='https://www.patreon.com/chairmanstudios' target="_blank"><img src="patreon.png" width="150" height=auto alt="Support on Patreon"></a>
+
+
+Country Flags Icons provider. **Credit to**
+- [Flag](https://www.flaticon.com/search)
+project Icons Provider.
+- [Pichon](https://www.filehorse.com/download-icons8/)
