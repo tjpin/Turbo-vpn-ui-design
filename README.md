@@ -1,6 +1,6 @@
 # Turbo VPN Ui with PySide6 and QtDesigner.
-<img src="turbo.png" width=auto height=500px alt="Turbo Vpn ui Clone">
-![Turbo Vpn ui Clone](turbo.png)
+<img src="turbo.PNG" width=auto height=500px alt="Turbo Vpn ui Clone">
+![Turbo Vpn ui Clone](turbo.PNG)
 
 ## Table of Contents
 
