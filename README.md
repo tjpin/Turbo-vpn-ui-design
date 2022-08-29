@@ -50,9 +50,12 @@ python main.py
 
 #### Quick Links
 <p align="left">
-  <a href='https://www.patreon.com/chairmanstudios' target="_blank"><img src="assets/patreon.png" width=auto height=50 title="Patreon💖💖💖✔"></a>
+  <a href='https://www.patreon.com/chairmanstudios' target="_blank"><img src="assets/patreon.png" width=auto height=30 title="Patreon💖💖💖✔"></a>
 </p>
 
-- [YouTube](https://www.youtube.com/channel/UCQdH3uO0rIg5ctg8PFb27Pg)
+<p align="left">
+  <a href='https://www.youtube.com/channel/UCQdH3uO0rIg5ctg8PFb27Pg' target="_blank"><img src="assets/yt.png" width=auto height=30 title="Patreon💖💖💖✔"></a>
+</p>
+
 - [Flaticon - Country Flags Icons provider](https://www.flaticon.com/search)
 - [Pichon - project Icons Provider](https://www.filehorse.com/download-icons8/)
